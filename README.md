@@ -27,7 +27,7 @@
 
 | Data Tools | Languages | Business Skills |
 |------------|-----------|-----------------|
-| Excel, Power BI, Tableau | SQL, Python (Pandas, Matplotlib) | Financial Analysis, Strategic Planning, Governance |
+| Excel, Power BI, Tableau | SQL, Python (Pandas, Matplotlib) | Business Operations,Financial Analysis, Strategic Planning, Governance |
 
 ---
 
@@ -41,7 +41,7 @@ Interactive dashboard analyzing retail sales performance by region, category, an
 
 ---
 
-### 📊 Superstore Returns Analysis (SQL + Excel)  
+### 📊 Superstore Returns Analysis (Tableau)  
 Analyzed return trends, flagged abnormal returns, and provided actionable insights for inventory control.  
 *Skills used: SQL Joins, CTEs, CASE statements*
 
@@ -53,8 +53,8 @@ Analyzed return trends, flagged abnormal returns, and provided actionable insigh
 
 - [x] SQL Intermediate
 - [x] Excel Dashboarding
-- [ ] Tableau Projects
-- [ ] Python for Data Analysis
+- [x] Tableau Projects
+- [x ] Python for Data Analysis
 
 ---
 
