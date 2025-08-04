@@ -18,7 +18,7 @@
 
 
 ## 📬 Connect with Me
-
+You can view my resume <a href='https://docs.google.com/document/d/1GMKc_mn9lSIMDQzuGvePscjWnE-vTGi9/edit?usp=drive_link&ouid=109736308842654338352&rtpof=true&sd=true ' target=_blank><u>here</u>.</a></p>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajani-mankhala)  
 📧 rajani.mankhala@gmail.com
 
