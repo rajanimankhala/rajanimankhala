@@ -1,62 +1,21 @@
-## Hi there 👋
 
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/rajani-mankhala/rajani-mankhala/assets/your-image-id/banner-image.jpg" alt="Rajani Mankhala GitHub Banner" />
-</p>
 
 <h1 align="center">Hi there, I'm Rajani Mankhala 👋</h1>
 
 <p align="center">
   Data Analyst | Operations Strategist | SQL Enthusiast | Storyteller with Data
 </p>
+ <p align='left'>Hi! I’m Rajani Mankhala, a professional data analyst with experience on more than 10 technical projects and 15+ years in Business Operations. My skills include business analytics, data visualization and storytelling, Python, SQL, Program Management,Financial Management,Vendor and stakeholder management. Now, I am eager to leverage Operations  and visualization skills tot transform business challenges into analytical solutions.
 
 ---
 
 ## 👩‍💻 About Me
 
-🌟 15+ years of experience in managing large-scale operations with TCS  
-📊 Transitioning into Data Analytics to uncover actionable insights  
+🌟 I enjoy networking professionally and personally
+🎯  I Love analysis and Passionate about solving real-world business problems with data
 📍 Based in Round Rock, TX, USA  
-📚 Currently deep-diving into SQL, Excel, Tableau, and Python  
-🎯 Passionate about solving real-world business problems with data
+  
 
----
-
-## 🛠️ Skills
-
-| Data Tools | Languages | Business Skills |
-|------------|-----------|-----------------|
-| Excel, Power BI, Tableau | SQL, Python (Pandas, Matplotlib) | Business Operations,Financial Analysis, Strategic Planning, Governance |
-
----
-
-## 🚀 Projects
-
-### 📈 Retail Sales Dashboard (Power BI)  
-Interactive dashboard analyzing retail sales performance by region, category, and customer segments.  
-*Skills used: Power BI, DAX, Data Modeling*
-
-![Retail Dashboard](https://github.com/rajani-mankhala/rajani-mankhala/assets/your-image-id/retail-dashboard.png)
-
----
-
-### 📊 Superstore Returns Analysis (Tableau)  
-Analyzed return trends, flagged abnormal returns, and provided actionable insights for inventory control.  
-*Skills used: SQL Joins, CTEs, CASE statements*
-
-![Returns Analysis](https://github.com/rajani-mankhala/rajani-mankhala/assets/your-image-id/returns-snapshot.png)
-
----
-
-## 📚 Learning Journey
-
-- [x] SQL Intermediate
-- [x] Excel Dashboarding
-- [x] Tableau Projects
-- [x ] Python for Data Analysis
-
----
 
 ## 📬 Connect with Me
 
